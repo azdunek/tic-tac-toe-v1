@@ -1,0 +1,19 @@
+.my-button {
+    -fx-min-height: 70;
+    -fx-min-width: 70;
+    -fx-font-size: 24;
+}
+
+.x-button {
+    -fx-text-fill: blue;
+}
+
+.o-button {
+    -fx-text-fill: green;
+}
+
+.my-label {
+    -fx-text-fill: black;
+    -fx-font-size: 20;
+    -fx-font-weight: bold;
+}
